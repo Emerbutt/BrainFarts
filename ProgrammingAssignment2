@@ -4,10 +4,9 @@
 ##3.) set the the inverse matrix
 ##4.) get the the inverse matrix
 
-## cacheSolve, the second function returns a matrix that is the inverse of 'x'
+## cacheSolve, the second function, returns a matrix that is the inverse of 'x'
 
-##2nd commit
-
+## @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
